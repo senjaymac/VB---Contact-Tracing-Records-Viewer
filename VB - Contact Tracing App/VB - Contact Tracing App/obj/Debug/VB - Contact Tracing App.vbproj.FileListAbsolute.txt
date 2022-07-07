@@ -1,0 +1,16 @@
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\VB - Contact Tracing App.exe.config
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\VB - Contact Tracing App.exe
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\VB - Contact Tracing App.pdb
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\VB - Contact Tracing App.xml
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.vbproj.AssemblyReference.cache
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.Form1.resources
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.Resources.resources
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.vbproj.GenerateResource.cache
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.vbproj.CoreCompileInputs.cache
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.exe
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.xml
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.pdb
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.mainForm.resources
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.formMain.resources
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.formRecordViewer.resources
