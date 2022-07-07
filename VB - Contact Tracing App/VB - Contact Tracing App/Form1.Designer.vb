@@ -68,6 +68,7 @@ Partial Class formMain
         Me.rbYes4 = New System.Windows.Forms.RadioButton()
         Me.btnClear = New System.Windows.Forms.Button()
         Me.btnViewRecords = New System.Windows.Forms.Button()
+        Me.btnScanQr = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.grpbxTitle.SuspendLayout()
         Me.grpbxGender.SuspendLayout()
@@ -488,12 +489,22 @@ Partial Class formMain
         Me.btnViewRecords.Text = "View Records"
         Me.btnViewRecords.UseVisualStyleBackColor = True
         '
+        'btnScanQr
+        '
+        Me.btnScanQr.Location = New System.Drawing.Point(33, 503)
+        Me.btnScanQr.Name = "btnScanQr"
+        Me.btnScanQr.Size = New System.Drawing.Size(120, 30)
+        Me.btnScanQr.TabIndex = 40
+        Me.btnScanQr.Text = "Scan Qr Code"
+        Me.btnScanQr.UseVisualStyleBackColor = True
+        '
         'formMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.LightGreen
         Me.ClientSize = New System.Drawing.Size(565, 567)
+        Me.Controls.Add(Me.btnScanQr)
         Me.Controls.Add(Me.btnViewRecords)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.grpbxQ4)
@@ -592,4 +603,5 @@ Partial Class formMain
     Friend WithEvents rbYes4 As RadioButton
     Friend WithEvents btnClear As Button
     Friend WithEvents btnViewRecords As Button
+    Friend WithEvents btnScanQr As Button
 End Class

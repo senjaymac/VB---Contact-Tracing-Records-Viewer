@@ -17,6 +17,8 @@ Public Class formRecordViewer
             Do Until info.EndOfStream
                 txtbxRecordViewerTextFile.Text = txtbxRecordViewerTextFile.Text & info.ReadLine & vbCrLf
             Loop
+
+            info.Close()
         End If
     End Sub
 

@@ -133,6 +133,9 @@ Partial Class formRecordViewer
         Me.Controls.Add(Me.btnSelect)
         Me.Controls.Add(Me.grpbxTitle)
         Me.Controls.Add(Me.txtbxRecordViewerTextFile)
+        Me.MaximumSize = New System.Drawing.Size(581, 606)
+        Me.MinimizeBox = False
+        Me.MinimumSize = New System.Drawing.Size(581, 606)
         Me.Name = "formRecordViewer"
         Me.ShowIcon = False
         Me.Text = "Records Viewer"

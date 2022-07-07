@@ -40,3 +40,24 @@ Do you have a close contact with a probable covid 19 person? No
 __________________________________________________________________________
 
 
+
+Date: Thursday, 7 July 2022
+Time: 8:39:45 pm
+
+Personal Informations
+First Name: 123
+Last Name: 123
+Complete Address: 123
+Age: 12
+Phone Number: 123
+Temperature: 11
+Gender: Male
+
+Health Questions
+Have you've been tested for COVID-19? Yes
+Are you experiencing any sickness recently? No
+Have you traveled outside of the country in the past 14days? Yes
+Do you have a close contact with a probable covid 19 person? No
+__________________________________________________________________________
+
+
