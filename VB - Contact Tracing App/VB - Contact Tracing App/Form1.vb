@@ -87,6 +87,10 @@
         Gender = "Male"
     End Sub
 
+    Private Sub btnViewRecords_Click(sender As Object, e As EventArgs) Handles btnViewRecords.Click
+        formRecordViewer.Show()
+        Me.Hide()
+    End Sub
 
     Private Sub rbFemale_CheckedChanged(sender As Object, e As EventArgs) Handles rbFemale.CheckedChanged
         Gender = "Female"
