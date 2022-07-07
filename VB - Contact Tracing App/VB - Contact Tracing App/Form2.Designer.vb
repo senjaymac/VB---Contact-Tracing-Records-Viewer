@@ -41,6 +41,8 @@ Partial Class formRecordViewer
         Me.txtbxRecordViewerTextFile.Location = New System.Drawing.Point(12, 143)
         Me.txtbxRecordViewerTextFile.Multiline = True
         Me.txtbxRecordViewerTextFile.Name = "txtbxRecordViewerTextFile"
+        Me.txtbxRecordViewerTextFile.ReadOnly = True
+        Me.txtbxRecordViewerTextFile.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.txtbxRecordViewerTextFile.Size = New System.Drawing.Size(541, 356)
         Me.txtbxRecordViewerTextFile.TabIndex = 0
         '
