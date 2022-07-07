@@ -1,5 +1,7 @@
 ﻿Public Class formMain
     Dim Gender, Q1, Q2, Q3, Q4 As String
+    Public Property Qr As Boolean
+    Public Property saveData As String
 
     Private Sub btnSubmit_Click(sender As Object, e As EventArgs) Handles btnSubmit.Click
         Dim form As System.IO.StreamWriter
@@ -89,6 +91,23 @@
 
     Private Sub btnViewRecords_Click(sender As Object, e As EventArgs) Handles btnViewRecords.Click
         formRecordViewer.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub formMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        If Qr Then
+            Dim Save As String()
+            Save = saveData.Split("-".ToCharArray(), StringSplitOptions.RemoveEmptyEntries)
+            txtbxFirstName.Text = Save(0)
+            txtbxLastName.Text = Save(1)
+            txtbxAddress.Text = Save(2)
+            txtbxPhoneNumber.Text = Save(3)
+
+        End If
+    End Sub
+
+    Private Sub btnScanQr_Click(sender As Object, e As EventArgs) Handles btnScanQr.Click
+        formQrCodeScanner.Show()
         Me.Hide()
     End Sub
 

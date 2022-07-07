@@ -12,3 +12,15 @@ C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing Ap
 C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.pdb
 C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.formMain.resources
 C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.formRecordViewer.resources
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\AForge.dll
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\AForge.Video.dll
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\zxing.dll
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\zxing.presentation.dll
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\AForge.xml
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\AForge.Video.xml
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\zxing.xml
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\bin\Debug\zxing.presentation.xml
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB___Contact_Tracing_App.formQrCodeScanner.resources
+C:\Users\Element 54\Documents\Repos\VB - Contact Tracing\VB - Contact Tracing App\VB - Contact Tracing App\obj\Debug\VB - Contact Tracing App.vbproj.CopyComplete
