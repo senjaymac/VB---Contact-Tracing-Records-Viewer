@@ -1,0 +1,42 @@
+﻿
+Date: Thursday, 7 July 2022
+Time: 9:43:14 am
+
+Personal Informations
+First Name: Senon Jayson
+Last Name: Macatangay
+Complete Address: Calaca Batangas
+Age: 27
+Phone Number: 123456789010
+Temperature: 45
+Gender: Male
+
+Health Questions
+Have you've been tested for COVID-19? Yes
+Are you experiencing any sickness recently? Yes
+Have you traveled outside of the country in the past 14days? Yes
+Do you have a close contact with a probable covid 19 person? Yes
+__________________________________________________________________________
+
+
+
+Date: Saturday, 16 July 2022
+Time: 9:43:58 am
+
+Personal Informations
+First Name: Senon Jayson
+Last Name: Macatangay
+Complete Address: Calaca Batangas
+Age: 27
+Phone Number: 123456789010
+Temperature: 45
+Gender: Female
+
+Health Questions
+Have you've been tested for COVID-19? No
+Are you experiencing any sickness recently? No
+Have you traveled outside of the country in the past 14days? No
+Do you have a close contact with a probable covid 19 person? No
+__________________________________________________________________________
+
+
